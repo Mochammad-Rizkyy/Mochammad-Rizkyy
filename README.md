@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mochammad-rizky&label=Profile%20views&color=0e75b6&style=flat" alt="mochammad-rizky" /> </p>
 
-- 🔭 I’m currently working on **website portofolio**
+- 🔭 I’m currently working on [website portofolio](https://mochammad-rizkyy.github.io/My-Portofolio/)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **mochammadrizky696@gmail.com**
+- 👨‍💻 All of my projects are available at [https://mochammad-rizkyy.github.io/My-Portofolio/](https://mochammad-rizkyy.github.io/My-Portofolio/)
+
+- 📫 How to reach me **mochammadrizky2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
